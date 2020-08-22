@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxArraySum", "MaxArraySum.csproj", "{51F7333E-BB34-4F6F-B170-A69B74070B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxArraySumTests", "..\MaxArraySumTests\MaxArraySumTests.csproj", "{BD7CE9E9-B624-40F6-86D4-4B9CB4354E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F7333E-BB34-4F6F-B170-A69B74070B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F7333E-BB34-4F6F-B170-A69B74070B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F7333E-BB34-4F6F-B170-A69B74070B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F7333E-BB34-4F6F-B170-A69B74070B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7CE9E9-B624-40F6-86D4-4B9CB4354E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7CE9E9-B624-40F6-86D4-4B9CB4354E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7CE9E9-B624-40F6-86D4-4B9CB4354E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7CE9E9-B624-40F6-86D4-4B9CB4354E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D94EDAB-7C22-42CC-B538-9F88E7CA53B1}
+	EndGlobalSection
+EndGlobal
